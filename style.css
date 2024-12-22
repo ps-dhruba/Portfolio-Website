@@ -1,0 +1,39 @@
+.logo{
+    height: 50px;
+}
+.myimg{
+    height: 600px;
+}
+.Contact{
+    width: 50%;
+}
+.hero-h1{
+    font-size: 60px;
+}
+.w{
+    width : 60%;
+}
+.project-img{
+    height: 300px;
+}
+a{
+    color : #00FFFF;
+    margin-left: -15px;
+}
+
+.hero-icons{
+    margin-left: 15px;
+}
+
+/* Small */
+@media (min-width: 100px) and (max-width: 767.98px) {
+    .portfolio-sm{
+        width: 100%;
+    }
+    .expertise-sm{
+        margin-top: 20px;
+    }
+    .myimg{
+        height: 300px;
+    }
+}
